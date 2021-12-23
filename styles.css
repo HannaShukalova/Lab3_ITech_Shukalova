@@ -1,0 +1,29 @@
+#lab_title {
+    font-size: 28px;
+  color: #008B8B;
+}
+
+input, button {
+  background: #AFEEEE;
+  color: #008B8B;
+}
+
+table { 
+    margin: auto;
+    width: 600px;
+    font-style: italic;
+    color: #4682B4 ;
+   }
+   tr:nth-child(2n) {
+    background: #AFEEEE; 
+    color: #008B8B;
+    font-weight: bold;
+    font-style: normal;
+
+   } 
+   th{
+    background: #20B2AA; 
+    color: #E0FFFF; 
+    font-style: normal;
+    font-size: 20px;
+}
